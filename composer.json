@@ -2,15 +2,20 @@
     "name": "ssmr9dt/processcalctime",
     "description": "Simple process time calculation",
     "type": "library",
+    "version": "1.0",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.1.0"
+    },
     "authors": [
-        {
-            "name": "Murakami",
-            "email": "ssmr9dt@gmail.com"
-        }
+      {
+        "name": "Murakami",
+        "email": "ssmr9dt@gmail.com"
+      }
     ],
     "autoload": {
-	  "files": [
-	    "src/ProcessCalcTime.class.php"
-	  ]
+  	  "files": [
+  	    "src/ProcessCalcTime.class.php"
+  	  ]
     }
 }
