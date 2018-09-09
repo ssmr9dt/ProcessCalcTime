@@ -2,6 +2,12 @@
 
 # Quick start
 
+## Installation
+
+```
+composer require ssmr9dt/
+```
+
 Reference test/start.php
 
 ## How to Use
