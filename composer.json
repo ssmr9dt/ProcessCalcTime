@@ -1,5 +1,5 @@
 {
-    "name": "ubuntu/workspace",
+    "name": "ssmr9dt/ProcessCalcTime",
     "description": "Simple process time calculation",
     "type": "library",
     "authors": [
