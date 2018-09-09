@@ -1,0 +1,12 @@
+{
+    "name": "ubuntu/workspace",
+    "description": "Simple process time calculation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Murakami",
+            "email": "ssmr9dt@gmail.com"
+        }
+    ],
+    "require": {}
+}
