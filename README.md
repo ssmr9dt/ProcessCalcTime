@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-composer require ssmr9dt/
+composer require ssmr9dt/processcalctime
 ```
 
 Reference test/start.php
