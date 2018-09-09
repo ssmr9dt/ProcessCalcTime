@@ -8,5 +8,9 @@
             "email": "ssmr9dt@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+	  "files": [
+	    "src/ProcessCalcTime.class.php"
+	  ]
+    }
 }
